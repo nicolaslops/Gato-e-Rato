@@ -60,6 +60,8 @@ cd GATO-E-RATO
 
 3. Abra o arquivo index.html em seu navegador de preferência e utilize a barra de espaço para interagir com os personagens.
 
+--- 
+
 ## Estrutura do Projeto
 
 ```text
